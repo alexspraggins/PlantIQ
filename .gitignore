@@ -1,0 +1,23 @@
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Arduino / PlatformIO build output
+.pio/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Local credentials and configuration
+secrets.h
+config.h
+credentials.h
+*.local.h
+*.local.cpp
+
+# Logs and temporary output
+*.log
+*.tmp
